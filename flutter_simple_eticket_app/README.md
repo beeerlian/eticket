@@ -1,4 +1,4 @@
-# wisata_app
+# Eticket App
 
 A new Flutter project.
 
